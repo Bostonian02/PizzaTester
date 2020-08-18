@@ -22,6 +22,6 @@ git clone https://github.com/Bostonian02/PizzaTester.git
 - Make a more detailed README
 
 ### Licenses
-None
+MIT (see LICENSE.MD)
 
 **Have fun!**
